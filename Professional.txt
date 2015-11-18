@@ -1,0 +1,9 @@
+01 Jason 19 0975 n n 0 U IT 
+02 John 32 0988 n n 0 U IT 
+03 Mo 18 0932 n n 0 S FI 
+04 Candy 25 0977 n n 0 J IT 
+05 Becky 20 0930 n n 0 P ED 
+06 Kid 21 0912 n n 0 E FI 
+07 TEA 13 0977 n n 0 J FI 
+08 Killer 55 0935 n n 0 P FI 
+09 Noname 23 0954 n n 0 P ME 
